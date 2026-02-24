@@ -16,7 +16,7 @@ export default function Header() {
                 </a>
 
                 <a 
-  href="/my-resume" 
+  href="/my-resume.pdf" 
   download="Logeswari_Resume.pdf" 
   className="px-10 py-3 border rounded-full border-white flex items-center gap-2 dark:text-white"
 >
