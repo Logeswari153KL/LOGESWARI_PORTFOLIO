@@ -6,8 +6,8 @@ export default function Header() {
                 Hi! I&apos;m Logeswari
                 <img src="./assets/hand-icon.png" alt="" className="w-6 mb-1" />
             </h3>
-            <h1 className="text-3xl sm:text-6xl lg:text-[66px] font-Ovo">full stack web developer & UI/UX desiger.</h1>
-            <p className="max-w-2xl mx-auto font-Ovo">I am a passionate Full Stack Web Developer and UI/UX Designer at the beginning of my professional journey, with strong skills in building responsive, user-focused web applications. As a fresher, I am eager to contribute to innovative projects, continuously learn, and grow in a dynamic organization.</p>
+            <h1 className="text-3xl sm:text-6xl lg:text-[66px] font-Ovo">full stack web developer.</h1>
+            <p className="max-w-2xl mx-auto font-Ovo">I am a passionate fresher Full Stack Web Developer and UI/UX Designer, eager to build responsive, user-focused applications and grow in a dynamic organization.</p>
 
             <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
                 <a href="#contact"
