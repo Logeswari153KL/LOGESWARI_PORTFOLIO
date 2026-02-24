@@ -18,7 +18,7 @@ export default function Header() {
                 <a 
   href="/my-resume.pdf" 
   download="Logeswari_Resume.pdf" 
-  className="px-10 py-3 border rounded-full border-white flex items-center gap-2 dark:text-white"
+  className="px-10 py-3 border rounded-full border-white flex items-center gap-2"
 >
   my resume <img src="./assets/download-icon.png" alt="" className="w-4" />
 </a>
